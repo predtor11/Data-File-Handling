@@ -25,4 +25,4 @@ This code is written to provide various operations on text files. It provides us
 - Install the required libraries
 - Run the python script
 
-NOTE - SET THE LOCATION OF FILE IN YOUR SYSTEM MANUALLY
+# NOTE - SET THE LOCATION OF FILE IN YOUR SYSTEM MANUALLY
